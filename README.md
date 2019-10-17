@@ -39,7 +39,7 @@ A Request to https://localhost:44363/Products?$filter=(Required in ('A', 'B')) s
 
 ## Optional Enum query fails
 
-A Request to <https://localhost:44363/Products?$filter=(Optional in ('A', 'B'))> fails with:
+A Request to https://localhost:44363/Products?$filter=(Optional in ('A', 'B')) fails with:
 
 ```json
 {
